@@ -2,7 +2,9 @@ div{
     background-color: aqua;
     padding: 10px;
     text-align: justify;
+    margin-bottom: 10px;
 }
 h3{
     text-align: center;
+    color: rgb(131, 130, 128);
 }
